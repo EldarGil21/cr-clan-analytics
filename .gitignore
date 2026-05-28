@@ -1,0 +1,5 @@
+.streamlit/
+clan_history.db
+__pycache__/
+venv/
+*.pyc
